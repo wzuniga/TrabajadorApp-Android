@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MuniApp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_password_confirm">Repite tu contraseña</string>
+    <string name="action_sign_in">Ingresa</string>
+    <string name="action_sign_up">Registrate</string>
+    <string name="action_sign_in_short">Ingresa</string>
+    <string name="error_invalid_email">Este main es invalido</string>
+    <string name="error_invalid_password">Esta contraseña es muy corta</string>
+    <string name="error_incorrect_password">Esta contraseña es incorrecta</string>
+    <string name="error_field_required">Campo requerido</string>
+    <string name="permission_rationale">"Permiso necesario"</string>
+
+    <!-- Strings related to maps -->
+    <string name="title_activity_maps">Map</string>
+</resources>
